@@ -4,6 +4,9 @@ gem 'rails', '~> 3.2.16'
 
 gem 'sqlite3'
 #gem 'mysql2'
+gem 'mongoid'
+
+gem 'foundation-rails'
 
 gem 'haml'
 
